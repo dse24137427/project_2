@@ -1,2 +1,4 @@
 # project_2
-it is 2nd exp of sepm
+# exp no - 2
+SEPM - software engineering and project management
+it is 2nd exp of SEPM
